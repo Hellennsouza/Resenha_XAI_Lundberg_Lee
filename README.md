@@ -1,4 +1,4 @@
-#Resenha Crítica: **A Unificação da XAI via Teoria dos Jogos Cooperativos**
+# Resenha Crítica:  **A Unificação da XAI via Teoria dos Jogos Cooperativos**
 
 Hellen Nunes dos Santos Souza  
 17 de outubro de 2026, Sorocaba/SP
